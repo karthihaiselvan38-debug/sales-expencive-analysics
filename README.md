@@ -162,15 +162,10 @@ The project generates:
 p.karthihai selvan  
 Student Project – Sales Data Analysis Using Python
 
----
-
-## 📜 License
-
-This project is for **educational purposes only**.
-```
+--- output :
 <img width="1367" height="696" alt="Screenshot 2026-06-04 140641" src="https://github.com/user-attachments/assets/92bc6919-abf5-434f-908a-20d92f29016c" />
 <img width="1329" height="553" alt="Screenshot 2026-06-04 140500" src="https://github.com/user-attachments/assets/a4f6e6f4-d960-4a05-b50d-4bd212b3dbd3" />
-
+<img width="1200" height="848" alt="image" src="https://github.com/user-attachments/assets/c513a7cd-3b36-42a0-90a7-0734b3081188" />
 
 ### GitHub upload steps:
 1. Create a repository in :contentReference[oaicite:0]{index=0}  
@@ -178,7 +173,7 @@ This project is for **educational purposes only**.
 3. Create a file named **README.md**  
 4. Paste the above content and commit changes.
 
+   ## 👨‍💻 Author
 
-<img width="1367" height="696" alt="Screenshot 2026-06-04 140641" src="https://github.com/user-attachments/assets/92bc6919-abf5-434f-908a-20d92f29016c" />
-<img width="1329" height="553" alt="Screenshot 2026-06-04 140500" src="https://github.com/user-attachments/assets/a4f6e6f4-d960-4a05-b50d-4bd212b3dbd3" />
-
+p.karthihai selvan  
+Student Project – Sales Data Analysis Using Python
