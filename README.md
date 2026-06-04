@@ -168,8 +168,8 @@ Student Project – Sales Data Analysis Using Python
 
 This project is for **educational purposes only**.
 ```
-<img width="1329" height="553" alt="image" src="https://github.com/user-attachments/assets/829ae53a-6390-46ce-806d-e21eb4fc3672" />
-<img width="1367" height="696" alt="image" src="https://github.com/user-attachments/assets/8a226006-e574-4ac8-9e8d-0ef86a3c178a" />
+<img width="1367" height="696" alt="Screenshot 2026-06-04 140641" src="https://github.com/user-attachments/assets/92bc6919-abf5-434f-908a-20d92f29016c" />
+<img width="1329" height="553" alt="Screenshot 2026-06-04 140500" src="https://github.com/user-attachments/assets/a4f6e6f4-d960-4a05-b50d-4bd212b3dbd3" />
 
 
 ### GitHub upload steps:
