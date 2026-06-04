@@ -167,6 +167,8 @@ Student Project – Sales Data Analysis Using Python
 
 This project is for **educational purposes only**.
 ```
+<img width="1329" height="553" alt="image" src="https://github.com/user-attachments/assets/829ae53a-6390-46ce-806d-e21eb4fc3672" />
+
 
 ### GitHub upload steps:
 1. Create a repository in :contentReference[oaicite:0]{index=0}  
