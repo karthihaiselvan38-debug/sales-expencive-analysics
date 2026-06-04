@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project performs **Sales Data Analysis** using Python libraries such as **Pandas, NumPy, Matplotlib, and Seaborn**. The dataset is analyzed to understand sales trends, customer performance, product performance, and other business insights through data visualization.
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 The project includes:
 - Data loading and preprocessing
