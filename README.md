@@ -165,6 +165,7 @@ Student Project – Sales Data Analysis Using Python
 --- output :
 <img width="1367" height="696" alt="Screenshot 2026-06-04 140641" src="https://github.com/user-attachments/assets/92bc6919-abf5-434f-908a-20d92f29016c" />
 <img width="1329" height="553" alt="Screenshot 2026-06-04 140500" src="https://github.com/user-attachments/assets/a4f6e6f4-d960-4a05-b50d-4bd212b3dbd3" />
+<img width="1128" height="717" alt="image" src="https://github.com/user-attachments/assets/72408e0e-61e1-4d81-aeb7-6b3a65b2638d" />
 
 ### GitHub upload steps:
 1. Create a repository in :contentReference[oaicite:0]{index=0}  
